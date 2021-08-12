@@ -32,11 +32,11 @@
    <p><a href='https://github.com/Ohnezahn-DNC/ohnezahn-bot'>Ohnezahn Bot 🐉</a> — a German Moderation Bot.</p> 
   
 <h2>About Me</h2>
-    <p><li>Hallo there, I'm Ohnezahn - a  <code>Python</code> Programmer</li>
-<li>I am currently in 2 organisations called BDFD-Staff (Bot Designer For Discord Official Server) and Discordlist-For-Bots (A Discord-Bot-List)</p>
+    <p><li>Hello there, I'm Ohnezahn - a  <code>Python</code> Programmer</li>
+<li>I am currently in 2 organisations: I'm BDFD-Staff (Bot Designer For Discord Official Server) {current Qualification: Supporter} and Discordlist-For-Bots (A Discord-Bot-List) {current Qualification: Website Developer} </p>
    <h2>Contact</h2>
    <p>
-    Contact me through Discord
+    If you have Questions, please contact me through Discord
    </p>
    <ul>
      <li>
@@ -46,8 +46,7 @@
        Discord ID: <code>705557092802625576</code>
      </li>
      <li>
-       Note(s):
-       <br> - If you send spam messages in my discord, i will block you.
+       Note: <br> - If you send spam messages in my discord, i will block you.
        </li>
    </ul>
    </p>
