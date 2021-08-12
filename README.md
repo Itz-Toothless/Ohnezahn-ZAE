@@ -46,9 +46,6 @@
        Discord ID: <code>705557092802625576</code>
      </li>
      <li>
-     </li>
-     <br>
-     <li>
        Note(s):
        <br> - If you send spam messages in my discord, i will block you.
        </li>
