@@ -6,7 +6,7 @@
   <a href="https://github.com/Ohnezahn-DNC">
     <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/Ohnezahn-DNC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/></a>
   <a href="https://discord.gg/botdesigner">
-    <img alt="Discord" title="Bot Designer For Discord" src="https://cdn.discordapp.com/icons/566363823137882154/a_0be3504fa6a7f40d81b538cbb1f77c4c.png?size=128"/><a/>
+    <img alt="Discord" title="Bot Designer For Discord" src="https://cdn.discordapp.com/avatars/705557092802625576/4e915392f1fecc49bbf5513ff711a4bd.png?size=64"/><a/>
 </p>
 <br> 
   
