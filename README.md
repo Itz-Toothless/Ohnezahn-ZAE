@@ -19,7 +19,7 @@
  Current Streak 
   </h1>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="streak" alt="Ohnezahn's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ohnezahn&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+    <img title="streak" alt="Ohnezahn's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ohnezahn-DNC&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
   <br/>
   
