@@ -6,6 +6,7 @@ Ich programmiere hauptsächlich mit Python und lerne aktuell HTML zusammen mit C
 
 Python Projekte:
 - Discord Bots
+- Generatoren (wie beispielsweise für Passwörter oder Namen)
 
 
 ## My stats  
