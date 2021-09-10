@@ -1,6 +1,6 @@
 # About Me!
 
-Hey, ich bin Ohnezahn DNC, Entwickler von [Discordlist for Bots](https://github.com/OpenSource-Discordlist-for-Bots) und [Ohnezahn Bot🐉](https://github.com/Ohnezahn-DNC/ohnezahn-bot).
+Hey, ich bin Ohnezahn ZAE, Entwickler von [Discordlist for Bots](https://github.com/OpenSource-Discordlist-for-Bots) und [Ohnezahn Bot🐉](https://github.com/Ohnezahn-DNC/ohnezahn-bot).
 Ich programmiere hauptsächlich mit Python und lerne aktuell HTML zusammen mit CSS, JS und C#.
 (Nicht alle Projekte sind auf GitHub)
 
