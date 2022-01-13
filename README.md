@@ -1,17 +1,18 @@
 # About Me!
 
-Hey, ich bin Ohnezahn ZAE, Entwickler von [Discordlist for Bots](https://github.com/OpenSource-Discordlist-for-Bots) und [Ohnezahn Bot🐉](https://github.com/Ohnezahn-ZAE/ohnezahn-bot).
-Ich programmiere hauptsächlich mit Python und lerne aktuell HTML zusammen mit CSS und JS (Bereich Web-Development).
+Hey, ich bin Ohnezahn ZAE und programmiere hauptsächlich mit Python und lerne aktuell Java zusammen mit C, C++ und SQL.
 (Nicht alle Projekte sind auf GitHub)
 
 Python Projekte:
 - Discord Bots
-- Generatoren (wie beispielsweise für Passwörter oder Namen)
+
+Java Projekte:
+- Keine in Aussicht
 
 
-## My stats  
+## Meine Statistiken
 ![Ok](https://github-readme-stats.vercel.app/api?username=Ohnezahn-ZAE&count_private=true&show_icons=true&theme=radical)
 
 ## Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohnezahn-ZAE&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ohnezahn-ZAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnezahn-zae)](https://github.com/ohnezahn-zae/github-readme-stats)
 
