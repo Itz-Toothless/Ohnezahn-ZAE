@@ -11,8 +11,8 @@ Java Projekte:
 
 
 ## Meine Statistiken
-![Ok](https://github-readme-stats.vercel.app/api?username=Ohnezahn-ZAE&count_private=true&show_icons=true&theme=radical)
+![Meine Stats :D](https://github-readme-stats.vercel.app/api?username=Ohnezahn-ZAE&count_private=true&show_icons=true&theme=radical)
 
 ## Top Languages  
-[![Ohnezahn-ZAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohnezahn-zae)](https://github.com/ohnezahn-zae/github-readme-stats)
+[![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnezahn-zae)](https://github.com/ohnezahn-zae/github-readme-stats)
 
