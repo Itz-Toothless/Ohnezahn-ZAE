@@ -9,6 +9,9 @@ Python Projekte:
 Java Projekte:
 - Keine in Aussicht
 
+## Discord
+
+![](https://discord.c99.nl/widget/theme-3/705557092802625576.png)
 
 ## Meine Statistiken
 ![Meine Stats :D](https://github-readme-stats.vercel.app/api?username=Ohnezahn-ZAE&count_private=true&show_icons=true&theme=radical)
