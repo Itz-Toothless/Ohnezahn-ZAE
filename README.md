@@ -6,6 +6,9 @@ Hey, ich bin Ohnezahn ZAE und programmiere hauptsächlich mit Python und lerne a
 Python Projekte:
 - Discord Bots
 
+JavaScript Projekte:
+- Discord Bots (discord.js)
+
 Java Projekte:
 - Keine in Aussicht
 
