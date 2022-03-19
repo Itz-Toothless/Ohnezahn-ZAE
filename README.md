@@ -1,6 +1,6 @@
 # About Me!
 
-Hey, ich bin Ohnezahn ZAE und programmiere hauptsächlich mit Python und lerne aktuell Java zusammen mit C, C++ und SQL.
+Hey, ich bin Ohnezahn ZAE und programmiere hauptsächlich mit Python und lerne aktuell C zusammen mit C++.
 (Nicht alle Projekte sind auf GitHub)
 
 Python Projekte:
@@ -9,7 +9,7 @@ Python Projekte:
 JavaScript Projekte:
 - Discord Bots (discord.js)
 
-Java Projekte:
+C / C++ Projekte:
 - Keine in Aussicht
 
 ## Discord
