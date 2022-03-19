@@ -1,6 +1,6 @@
 # About Me!
 
-Hey, ich bin Ohnezahn ZAE und programmiere hauptsächlich mit Python und lerne aktuell C zusammen mit C++.
+Hey, ich bin Ohnezahn ZAE und programmiere hauptsächlich mit Python und lerne aktuell C zusammen mit C# und C++.
 (Nicht alle Projekte sind auf GitHub)
 
 Python Projekte:
