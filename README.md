@@ -17,8 +17,8 @@ C / C++ Projekte:
 ![](https://discord.c99.nl/widget/theme-3/705557092802625576.png)
 
 ## Meine Statistiken
-![Meine Stats :D](https://github-readme-stats.vercel.app/api?username=Ohnezahn-ZAE&count_private=true&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Itz-Toothless&count_private=true&show_icons=true&theme=radical)
 
 ## Top Languages  
-[![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnezahn-zae)](https://github.com/ohnezahn-zae/github-readme-stats)
+[![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Toothless)](https://github.com/Itz-Toothless/github-readme-stats)
 
