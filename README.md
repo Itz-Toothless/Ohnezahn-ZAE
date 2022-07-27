@@ -1,10 +1,7 @@
 # About Me!
 
-Hey, ich bin Itz_Toothless und programmiere hauptsächlich mit Python und lerne aktuell GoLang zusammen mit discord.js.
+Hey, ich bin Itz_Toothless und programmiere hauptsächlich mit Python und lerne aktuell discord.js.
 (Nicht alle Projekte sind auf GitHub)
-
-GoLang Projekte:
-- Discord Bots
 
 JavaScript Projekte:
 - Discord Bots (discord.js)
