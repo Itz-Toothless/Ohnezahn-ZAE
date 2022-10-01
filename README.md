@@ -1,6 +1,6 @@
 # About Me!
 
-Hey, ich bin Itz_Toothless und programmiere hauptsächlich mit Python und lerne aktuell discord.js.
+Hey, ich bin Itz_Toothless und programmiere hauptsächlich mit JavaScript und lerne aktuell discord.js.
 (Nicht alle Projekte sind auf GitHub)
 
 JavaScript Projekte:
