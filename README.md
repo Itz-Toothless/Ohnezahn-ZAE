@@ -1,18 +1,18 @@
-# About Me!
+# Über mich!
 
-Hey, ich bin Itz_Toothless und programmiere hauptsächlich mit JavaScript und lerne aktuell discord.js.
+Hallo, ich bin LunaTheFox20 und programmiere mit den verschiedensten Programmiersprachen.
 (Nicht alle Projekte sind auf GitHub)
 
-JavaScript Projekte:
-- Discord Bots (discord.js)
+Projekte:
+- Distanz Kalkulatoren
 
 ## Discord
 
 ![](https://discord.c99.nl/widget/theme-3/705557092802625576.png)
 
 ## Meine Statistiken
-![Stats](https://github-readme-stats.vercel.app/api?username=Itz-Toothless&count_private=true&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=LunaTheFox20&count_private=true&show_icons=true&theme=radical)
 
 ## Top Languages  
-[![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Toothless)](https://github.com/Itz-Toothless/github-readme-stats)
+[![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaTheFox20)](https://github.com/LunaTheFox20/github-readme-stats)
 
