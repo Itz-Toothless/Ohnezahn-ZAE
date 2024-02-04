@@ -5,8 +5,7 @@ Hallo, ich bin LunaTheFox20 und programmiere mit den verschiedensten Programmier
 
 Projekte:
 - Distanz Kalkulatoren
-- Password Hashing
-
+- Passwort Hashing
 ## Discord
 
 ![](https://discord.c99.nl/widget/theme-3/705557092802625576.png)
