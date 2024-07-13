@@ -1,11 +1,9 @@
 # Über mich!
 
-Hallo, ich bin MiloTheFox und programmiere mit den verschiedensten Programmiersprachen.
-(Nicht alle Projekte sind auf GitHub)
+Hallo! Ich bin MiloTheFox und ein leidenschaftlicher Programmierer. Ich arbeite mit verschiedenen Programmiersprachen an einer Vielzahl von Projekten. Nicht alle meiner Projekte sind auf GitHub zu finden, aber hier sind einige Beispiele:
 
-Projekte:
-- Distanz Kalkulatoren
-- Passwort Hashing
+- Distanzkalkulatoren
+- Passwort-Hashing
 - Parallele Programmierung
 
 ## Discord
@@ -17,4 +15,3 @@ Projekte:
 
 ## Top Languages  
 [![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=MiloTheFox)](https://github.com/MiloTheFox/github-readme-stats)
-
