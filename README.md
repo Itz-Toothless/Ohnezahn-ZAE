@@ -6,10 +6,6 @@ Hallo! Ich bin MiloTheFox und ein leidenschaftlicher Programmierer. Ich arbeite 
 - Passwort-Hashing
 - Parallele Programmierung
 
-## Discord
-
-![](https://discord.c99.nl/widget/theme-3/705557092802625576.png)
-
 ## Meine Statistiken
 ![Stats](https://github-readme-stats.vercel.app/api?username=MiloTheFox&count_private=false&show_icons=true&theme=radical)
 
